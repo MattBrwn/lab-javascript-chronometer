@@ -62,4 +62,5 @@ btnLeft.addEventListener('click', () => {
 // Reset/Split Button
 btnRight.addEventListener('click', () => {
   // ... your code goes here
+  startClick()
 });
